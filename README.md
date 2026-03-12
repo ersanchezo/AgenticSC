@@ -1,2 +1,2 @@
 # AgenticSC
-Agentic Single-Cell agent for imaging data using SLMs and RAG
+Agentic Single-Cell agent for imaging data using (Qwen)SLMs and RAG
